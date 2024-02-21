@@ -379,7 +379,15 @@ const frequentlyAskedQuestions = [
 ];
 
 export {
-  calenderStartingDate, FOOTER, frequentlyAskedQuestions, JudgesInfo, MIDDLE_SECTION, Prizeinfo, schedule, SOCIALS, sponsorLogos,
-  TeamInfo, TOP_SECTION
+  calenderStartingDate,
+  FOOTER,
+  frequentlyAskedQuestions,
+  JudgesInfo,
+  MIDDLE_SECTION,
+  Prizeinfo,
+  schedule,
+  SOCIALS,
+  sponsorLogos,
+  TeamInfo,
+  TOP_SECTION
 };
-
